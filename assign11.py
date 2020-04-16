@@ -26,7 +26,7 @@ def invalid():              # If the choice is invalid, this screen will display
 
 def welcome():              # Splash Screen
     print("""\033[1m
-    ------------LIST SORT VERSION 1.0.1------------ \033[0m
+    ------------LIST SORT VERSION 1.1.0------------ \033[0m
     Welcome. This program will sort random numbers
               from least to greatest.""")
     time.sleep(2)
